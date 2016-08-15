@@ -21,6 +21,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'paperclip', '~> 5.0'
+gem 'devise', '~> 4.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # bundle exec rake doc:rails generates the APIunder doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
